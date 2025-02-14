@@ -1,7 +1,9 @@
 # 🏡가정 보안 시스템 Home Security System
 >
 > 가정용 보안 및 화재 안전 시스템
->
+
+
+
 > Home Security and Fire Safety System
 >
 # 📄프로젝트 정보
@@ -13,6 +15,8 @@
 > 라즈베리파이의 Thonny와 PC화면의 p5.js에서 UART 통신을 통한 화면구현
 >
 > 캡쳐 이미지 저장 및 알림 확인
+
+
 
 
 > Alarm System: Captures camera images when infrared motion is detected using the PIR sensor.
@@ -33,14 +37,18 @@
 >### 🧑‍🤝‍🧑참여 인원 Number of Participants
 >
 >> 본인 포함 5명
->
+
+
+
 >> 5 people including myself
 
 
 >### ✏️역할 Role
 >
 >> 코드 작성 및 업무 서포트
->
+
+
+
 >>Software Development and Task Assistance
 
 ># 🔀모델 및 구상도 System Block Diagram
@@ -71,8 +79,9 @@
 >> 라즈베리파이(R-Pi 4) : 센서 및 통신 제어
 >> 
 >> HW-597 : Uart 통신
->> 
->> 
+
+
+
 >> CAM (GD-C100): Used for human detection and verification.
 >> 
 >> PIR Motion Sensor (HC-SR501): Detects human movement.
