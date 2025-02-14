@@ -116,9 +116,14 @@
 
 >> When no fire is detected, the status remains unchanged, but if a fire is detected, a red alert is displayed to indicate a fire.
 
-># 🔑소스코드
+> # ✅완성된 하드웨어 연결
+>
+>> ![제목 없음](https://github.com/user-attachments/assets/b0f1f89f-3956-4afb-8d6a-04fe89201003)
 
->>센서, LED 코드 - 
+
+> # 🔑소스코드
+
+>>센서, LED 코드 Sensor, LED Code - 
 [코드보러가기](https://github.com/rbals5847/HomeSecuritySystem.github.io/blob/main/prj/projact.py)
 
 
