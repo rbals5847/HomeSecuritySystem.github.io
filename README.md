@@ -6,14 +6,21 @@
 >
 # 📄프로젝트 정보
 >
->경보 시스템 PIR 센서를 활용한 적외선 움직임 감지 시 카메라 이미지 캡쳐
->화재 감지 시스템의 가스 센서(MQ-2)를 활용한 가스 감지 시 이미지 캡쳐
->라즈베리파이의 Thonny와 PC화면의 p5.js에서 UART 통신을 통한 화면구현
->캡쳐 이미지 저장 및 알림 확인
+> 경보 시스템 PIR 센서를 활용한 적외선 움직임 감지 시 카메라 이미지 캡쳐
 >
+> 화재 감지 시스템의 가스 센서(MQ-2)를 활용한 가스 감지 시 이미지 캡쳐
+>
+> 라즈베리파이의 Thonny와 PC화면의 p5.js에서 UART 통신을 통한 화면구현
+>
+> 캡쳐 이미지 저장 및 알림 확인
+
+
 > Alarm System: Captures camera images when infrared motion is detected using the PIR sensor.
+> 
 > Fire Detection System: Captures images upon gas detection using the MQ-2 gas sensor.
+> 
 > Display Implementation: Uses UART communication between Thonny on Raspberry Pi and p5.js on a PC to render the display.
+> 
 > Image Storage & Notifications: Stores captured images and provides notification alerts.
 
 
@@ -54,17 +61,28 @@
 ># 🔌하드웨어 Hardware
 
 >> CAM(GD-C100) : 사람 인식 및 확인용
+>> 
 >> PIR 인체감지 센서(HC-SR501) : 사람 움직임 인식
+>> 
 >> 피에조 부저(MH-FND) : 경보 알림
+>> 
 >> 가스센서(MQ-2) : 가연성 가스 센서 확인
+>> 
 >> 라즈베리파이(R-Pi 4) : 센서 및 통신 제어
+>> 
 >> HW-597 : Uart 통신
 >> 
+>> 
 >> CAM (GD-C100): Used for human detection and verification.
+>> 
 >> PIR Motion Sensor (HC-SR501): Detects human movement.
+>> 
 >> Piezo Buzzer (MH-FND): Provides alarm notifications.
+>> 
 >> Gas Sensor (MQ-2): Detects flammable gases.
+>> 
 >> Raspberry Pi (R-Pi 4): Controls sensors and communication.
+>> 
 >> HW-597: Handles UART communication.
 
 
