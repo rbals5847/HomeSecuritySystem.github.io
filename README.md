@@ -118,11 +118,11 @@
 
 ># 🔑소스코드
 
->>센서, LED 코드 [코드보러가기]([https://github.com/kimphysicsman/mylittlebeer/blob/master/recommend/functions.py#L28](https://github.com/rbals5847/HomeSecuritySystem.github.io/blob/main/prj/projact.py))
+>>센서, LED 코드 [코드보러가기]([https://github.com/kimphysicsman/mylittlebeer/blob/master/recommend/functions.py#L28]
 
 
 
-
+> [코드보러가기](https://github.com/kimphysicsman/mylittlebeer/blob/master/recommend/functions.py#L28)
 
 
 
