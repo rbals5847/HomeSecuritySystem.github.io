@@ -101,6 +101,7 @@
 > # 👮침입자 감지 시스템
 
 >>![제목 없음](https://github.com/user-attachments/assets/692f6601-86ac-4311-b07f-be7b01826baa)
+>>
 >> 사람이 감지되지 않을 때는 상태가 그대로 유지되지만 감지되면 침입자 발생을 알리는 빨간색 알림 표시.
 
 >>When no person is detected, the status remains unchanged, but if a person is detected, a red alert is displayed to >>indicate an intruder.
@@ -110,6 +111,7 @@
 > # 🔥화재 감지 시스템
 
 >> ![image](https://github.com/user-attachments/assets/cb4d83c1-c001-48f9-ab4c-963405b9ba86)
+>> 
 >> 화재가 감지되지 않을 때는 상태가 그대로 유지되지만 화재가 감지되면 화재 발생을 알리는 빨간색 알림 표시.
 
 >> When no fire is detected, the status remains unchanged, but if a fire is detected, a red alert is displayed to indicate a fire.
