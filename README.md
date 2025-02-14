@@ -29,12 +29,12 @@
 
 
 
->### 📅제작기간 Development Time
+> ### 📅제작기간 Development Time
 >
 >>2024.12.01 ~ 2024.12.09
 
 
->### 🧑‍🤝‍🧑참여 인원 Number of Participants
+> ### 🧑‍🤝‍🧑참여 인원 Number of Participants
 >
 >> 본인 포함 5명
 
@@ -43,7 +43,7 @@
 >> 5 people including myself
 
 
->### ✏️역할 Role
+> ### ✏️역할 Role
 >
 >> 코드 작성 및 업무 서포트
 
@@ -51,7 +51,7 @@
 
 >>Software Development and Task Assistance
 
-># 🔀모델 및 구상도 System Block Diagram
+> # 🔀모델 및 구상도 System Block Diagram
 >
 >> ![image](https://github.com/user-attachments/assets/e3dca081-d317-4456-8b60-17dcf7bda263)
 
@@ -61,12 +61,13 @@
 
 
 
-># 🔡소프트웨어 Software
+> # 🔡소프트웨어 Software
 >> ![image](https://github.com/user-attachments/assets/d4f92356-480e-4d7f-9a55-a3bedadfed33)
 
->> ![image](https://github.com/user-attachments/assets/2e39c866-cc8f-486b-acdf-8b0034b02ac7)
+>> ![캡처](https://github.com/user-attachments/assets/06878f02-ab06-46c3-bfd2-67ec935dbd87)
 
-># 🔌하드웨어 Hardware
+
+> # 🔌하드웨어 Hardware
 
 >> CAM(GD-C100) : 사람 인식 및 확인용
 >> 
@@ -94,9 +95,26 @@
 >> 
 >> HW-597: Handles UART communication.
 
+>> ![image](https://github.com/user-attachments/assets/f158ad70-c17a-4114-bf32-12cada1f8311)
+>>
+>> 
+> # 👮침입자 감지 시스템
 
+>>![제목 없음](https://github.com/user-attachments/assets/692f6601-86ac-4311-b07f-be7b01826baa)
+>> 사람이 감지되지 않을 때는 상태가 그대로 유지되지만 감지되면 침입자 발생을 알리는 빨간색 알림 표시.
 
+>>When no person is detected, the status remains unchanged, but if a person is detected, a red alert is displayed to >>indicate an intruder.
+>>
+>>
 
+> # 🔥화재 감지 시스템
+
+>> ![image](https://github.com/user-attachments/assets/cb4d83c1-c001-48f9-ab4c-963405b9ba86)
+>> 화재가 감지되지 않을 때는 상태가 그대로 유지되지만 화재가 감지되면 화재 발생을 알리는 빨간색 알림 표시.
+
+>> When no fire is detected, the status remains unchanged, but if a fire is detected, a red alert is displayed to indicate a fire.
+
+># 🔑소스코드
 
 
 
